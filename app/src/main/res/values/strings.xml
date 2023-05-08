@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- android_large___1 strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="mobile_game_string">Mobile Game</string>
+	<string name="pc_game_string">PC Game</string>
+	<string name="fifa_23_string">FIFA 23</string>
+	<string name="ml_string">ML</string>
+	<string name="pubgm_string">PUBGM</string>
+	<string name="valorant_string">VALORANT</string>
+	<string name="point_blank_string">POINT BLANK</string>
+	<string name="fortnite_string">FORTNITE</string>
+	<string name="lihat_semua_string">Lihat Semua</string>
+	<string name="levelup_id_string">LEVELUP.ID</string>
+	<string name="lihat_semua_ek1_string">Lihat Semua</string>
+</resources>
